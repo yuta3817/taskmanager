@@ -14,8 +14,8 @@ You can list tasks for each requester and manage response deadlines and response
 - devise
 
 # Usage
-$ git clone https://github.com/yuta3817/taskapp.git`
-$ cd hoge
+$ git clone https://github.com/yuta3817/taskmanager.git
+$ cd taskmanager
 $ bundle install
 $ rails db:create
 $ rails db:migrate
