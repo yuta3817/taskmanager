@@ -1,16 +1,16 @@
 # TaskManager
-This app manages your daily work.
-
-# Description
 This app organizes and manages the work requested by multiple requesters.
 
-# DEMO
+# Description
 You can list tasks for each requester and manage response deadlines and response details.
 
+# DEMO
+
+
 # Requirement
-- ruby '2.6.5'
-- rails, '~> 6.0'
-- unicorn, '5.4.1
+- ruby '2.6.6'
+- rails, '~> 6.0.3', '>= 6.0.3.4'
+- bootsnap, '>= 1.4.2'
 - devise
 
 # Er diagram
