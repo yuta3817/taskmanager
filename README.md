@@ -5,9 +5,11 @@ This app organizes and manages the work requested by multiple requesters.
 You can list tasks for each requester and manage response deadlines and response details.
 
 # DEMO
-![sample](https://user-images.githubusercontent.com/68514078/106378750-787eb900-63ea-11eb-9ba9-015022849fd8.gif)
+![demo1](https://user-images.githubusercontent.com/68514078/106384589-0371aa80-640f-11eb-87a9-aac066f13959.gif)
 
-![sample2](https://user-images.githubusercontent.com/68514078/106378656-e080cf80-63e9-11eb-9e62-2d61a612b336.gif)
+![demo2](https://user-images.githubusercontent.com/68514078/106384642-4469bf00-640f-11eb-9589-ca08c9fd3c74.gif)
+
+![demo3](https://user-images.githubusercontent.com/68514078/106384652-4f245400-640f-11eb-8b99-1f9524021b35.gif)
 
 # Requirement
 - ruby '2.6.6'
