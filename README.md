@@ -5,8 +5,8 @@ This app organizes and manages the work requested by multiple requesters.
 You can list tasks for each requester and manage response deadlines and response details.
 
 # DEMO
-![demo]
-(https://raw.github.com/wiki/yuta3817/taskmanager/images/sample.gif)
+![sample](https://user-images.githubusercontent.com/68514078/106378576-5d5f7980-63e9-11eb-9d93-ed8ec37f853f.gif)
+
 
 # Requirement
 - ruby '2.6.6'
