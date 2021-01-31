@@ -5,7 +5,7 @@ This app organizes and manages the work requested by multiple requesters.
 You can list tasks for each requester and manage response deadlines and response details.
 
 # DEMO
-![sample](https://user-images.githubusercontent.com/68514078/106378576-5d5f7980-63e9-11eb-9d93-ed8ec37f853f.gif)
+![sample](https://user-images.githubusercontent.com/68514078/106378750-787eb900-63ea-11eb-9ba9-015022849fd8.gif)
 
 ![sample2](https://user-images.githubusercontent.com/68514078/106378656-e080cf80-63e9-11eb-9e62-2d61a612b336.gif)
 
