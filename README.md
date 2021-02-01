@@ -22,7 +22,7 @@ You can list tasks for each requester and manage response deadlines and response
 - devise
 
 # Er diagram
-[erd.pdf](https://github.com/yuta3817/taskmanager/files/5888033/erd.pdf)
+![erd_page-0001](https://user-images.githubusercontent.com/68514078/106452320-0cc04d00-64cb-11eb-8b49-4d7a13c89ea6.jpg)
 
 # Usage
 $ git clone https://github.com/yuta3817/taskmanager.git
