@@ -1,7 +1,8 @@
 # TaskManager
 <https://taskmanager000.herokuapp.com>
-- メールアドレス:"sample@sample.com"
+- メールアドレス:sample@sample.com
 - パスワード:sample123
+<br>
 This app organizes and manages the work requested by multiple requesters.
 
 # Description
